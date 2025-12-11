@@ -6,7 +6,16 @@ This project performs full **data analysis → preprocessing → model training 
 ---
 
 ## 🏷️ Project Status  
-**Python • NumPy • Pandas • Scikit-Learn • TensorFlow/Keras • XGBoost • SHAP • Streamlit**
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.26-blueviolet)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-teal)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![XGBoost](https://img.shields.io/badge/XGBoost-Optimized-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ANN-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
